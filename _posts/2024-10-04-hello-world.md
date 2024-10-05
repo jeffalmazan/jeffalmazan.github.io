@@ -5,6 +5,5 @@ categories: [Hello World]
 tags: [Hello World]
 ---
 
-# Hello World
 
 First Blog.
