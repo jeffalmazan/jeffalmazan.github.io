@@ -3,6 +3,7 @@ title: "California Housing Price Predictor"
 date: 2024-10-02 12:00:00 +0800
 categories: [Projects, Machine Learning]
 tags: [Python, Streamlit, Data Science]
+render_with_liquid: false 
 ---
 
 ## California Housing Price Predictor
